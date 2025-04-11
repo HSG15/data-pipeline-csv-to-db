@@ -1,0 +1,88 @@
+Basic Python Questions:
+What are the key features of Python?
+What is the difference between list, tuple, and set in Python?
+Difference between for loop and while loop in Python?
+Can we Pass a function as an argument in Python?
+What is a break, continue and pass in Python? 
+How are arguments passed by value or by reference in Python?
+How is a dictionary different from a list?
+How can you concatenate two lists in Python?
+What is docstring in Python?
+What are Modules and Packages in Python?
+What is a class and an object in Python?
+What is Object-Oriented Programming (OOP)?
+What are the key features of OOP?
+What are abstract classes in Python?
+What is the super() function in Python?
+What is a Variable Scope in Python?
+Explain the difference between is and == operators.
+What are Python's mutable and immutable data types?
+How do you define and call a function in Python?
+What is the use of lambda functions in Python?
+ 
+coding ques:
+Check if a number is prime
+Check if a string is a palindrome
+Implement Slicing
+Find factorial using recursion
+Reverse a string without using built-in functions
+Write a Python function to merge two sorted lists into a single sorted list.
+ 
+ 
+html and css
+HTML & CSS Interview Questions (Basic to Advanced)
+Basic Level
+What is HTML? How does it differ from XHTML?
+What are the different types of HTML elements?
+Explain the difference between <div> and <span>.
+What is the purpose of the alt attribute in an <img> tag?
+What is the difference between inline, block, and inline-block elements?
+How do you create a hyperlink in HTML?
+What is the difference between absolute, relative, and fixed positioning in CSS?
+What is the difference between em, rem, px, and % in CSS?
+What are pseudo-classes and pseudo-elements? Give examples.
+How do you make a webpage responsive?
+Intermediate Level
+What is the difference between id and class in CSS?
+Explain the box model in CSS.
+What is Flexbox? How is it different from CSS Grid?
+How can you center a div horizontally and vertically?
+What is the difference between nth-child() and nth-of-type()?
+What are media queries? How do they work?
+Explain the difference between z-index and stacking context.
+How can you optimize a webpage’s performance using CSS?
+What is the difference between pseudo-classes like :hover and pseudo-elements like ::before?
+What are CSS animations and transitions? How do they work?
+Advanced Level
+What is the difference between relative, absolute, fixed, and sticky positioning in CSS?
+How does CSS Grid work? How is it different from Flexbox?
+How does min-width, max-width, and width work together in CSS?
+How do you create a responsive navigation menu?
+What is the difference between CSS opacity and visibility?
+What is the difference between vw, vh, vmin, and vmax?
+What is the difference between clip-path and mask in CSS?
+How can you use CSS variables (--var)? What are the benefits?
+How can you make a CSS animation run infinitely?
+What are the best practices for writing clean and maintainable CSS?
+Logical and Code Questions
+Basic Code Question:
+Q1: Write an HTML and CSS snippet to create a simple button with hover effect that changes color.
+ 
+Intermediate Code Question:
+Q2: Create a responsive navigation bar that collapses into a hamburger menu on smaller screens using only HTML and CSS.
+ 
+Advanced Code Question:
+Q3: Without using JavaScript, create a pure CSS accordion where clicking on one section expands it while collapsing others.
+ 
+sql
+Basic SQL Questions:
+What is SQL? How does it differ from NoSQL?
+What are the different types of SQL commands?
+Explain the difference between DDL, DML, DCL, and TCL commands.
+What is a primary key? Can a table have multiple primary keys?
+What is a foreign key? How does it establish a relationship between tables?
+What is the difference between CHAR and VARCHAR data types?
+What is a JOIN? Name the different types of joins in SQL.
+What is the difference between INNER JOIN and OUTER JOIN?
+What is Normalization? Explain different normal forms (1NF, 2NF, 3NF, BCNF).
+What is denormalization, and why is it used?
